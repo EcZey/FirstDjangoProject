@@ -2,13 +2,13 @@
 
 Bu proje, Django  kullanarak basit bir web sitesi oluşturmayı amaçlamaktadır. Bu web sitesinde, kullanıcılar kayıt olabilir, giriş yapabilir ve tweet atabilirler.
 
-## Özellikler Kullanıcı 
+## Özellikler 
 
-Kayıt , Giriş sistemi ve Tweet
+Kullanıcı  Kayıt , Giriş sistemi ve Tweet
 
 ## Kullanılan Teknolojiler 
 
-Python 3.12 Django 3.2 SQLite 3 Bootstrap
+Python 3.11 Django 4.2.4  SQLite 3 Bootstrap
 
 ## Kurulum Bu projeyi çalıştırmak için aşağıdaki adımları izleyiniz: 
 
