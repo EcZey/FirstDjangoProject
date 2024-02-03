@@ -26,5 +26,5 @@ Tarayıcınızda adresine gidin. http://127.0.0.1:8000/tweetapp ya da  http://16
 
 <img src="https://github.com/EcZey/FirstDjangoProject/blob/main/Ekran%20Resmi%202024-02-03%2023.51.57.png" alt="alt text" width="350" height="250">
 
-<img src="https://github.com/EcZey/FirstDjangoProject/blob/main/Ekran%20Resmi%202024-02-03%2023.52.11.png" alt="alt text" width="350" height="250>
+<img src="https://github.com/EcZey/FirstDjangoProject/blob/main/Ekran%20Resmi%202024-02-03%2023.52.11.png" alt="alt text" width="350" height="250">
 
