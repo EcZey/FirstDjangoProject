@@ -22,9 +22,9 @@ Sunucuyu başlatın: python manage.py runserver
 
 Tarayıcınızda adresine gidin. http://127.0.0.1:8000/tweetapp ya da  http://167.99.124.63/tweetapp/ 
 
-<img src="https://github.com/EcZey/FirstDjangoProject/blob/main/Ekran%20Resmi%202024-02-03%2023.49.28.png" alt="alt text" width="250" height="200">
+<img src="https://github.com/EcZey/FirstDjangoProject/blob/main/Ekran%20Resmi%202024-02-03%2023.49.28.png" alt="alt text" width="300" height="200">
 
-<img src="https://github.com/EcZey/FirstDjangoProject/blob/main/Ekran%20Resmi%202024-02-03%2023.51.57.png" alt="alt text" width="250" height="200">
+<img src="https://github.com/EcZey/FirstDjangoProject/blob/main/Ekran%20Resmi%202024-02-03%2023.51.57.png" alt="alt text" width="300" height="200">
 
-<img src="https://github.com/EcZey/FirstDjangoProject/blob/main/Ekran%20Resmi%202024-02-03%2023.52.11.png" alt="alt text" width="250" height="200">
+<img src="https://github.com/EcZey/FirstDjangoProject/blob/main/Ekran%20Resmi%202024-02-03%2023.52.11.png" alt="alt text" width="300" height="200">
 
